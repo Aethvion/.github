@@ -13,6 +13,7 @@ More info on: [Aethvion.com](https://aethvion.com/)
 ---
 
 # In Development
+* Cornfield Escape
 * Yukimura
 * Subway of Despair
 
