@@ -22,3 +22,11 @@ More info on: [Aethvion.com](https://aethvion.com/)
 # Websites
 * [aethvion.com](https://aethvion.com/)
 * [productivitylounge.com](https://productivitylounge.com/)
+
+---
+
+# AI
+* [Misaka Cipher (repo)](https://github.com/Aethvion/Misaka-Cipher)
+* [misakacipher.com](https://misakacipher.com/)
+
+---
