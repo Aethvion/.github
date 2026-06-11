@@ -10,7 +10,7 @@ More at [aethvion.com](https://aethvion.com)
 ## ❤️ Sponsors
 
 Thank you to all our sponsors for supporting independent development!  
-*(No sponsors yet — be the first!)*
+See the full [sponsors list](../SPONSORS.md) — *(no sponsors yet — be the first!)*
 
 ---
 
@@ -19,7 +19,7 @@ Thank you to all our sponsors for supporting independent development!
 ### [Aethvion Project Mapper](https://github.com/Aethvion/Aethvion-ProjectMapper)
 Static code analysis + knowledge-graph for AI coding agents.  
 Indexes your codebase once — agents query only what they need.  
-**89–93 % token reduction · MCP stdio · Works with Claude Code, Cursor, Windsurf**
+**83–92% token reduction · MCP stdio · Works with Claude Code, Cursor, Antigravity, Codex**
 
 ### [Aethvion Suite](https://github.com/Aethvion/Aethvion-Suite)
 Self-hosted AI platform combining cloud models (Gemini, GPT-4o, Claude, Grok)
